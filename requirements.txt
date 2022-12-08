@@ -1,6 +1,6 @@
 astroid==2.1.0
 beautifulsoup4==4.7.1
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 grpcio==1.18.0
 grpcio-tools==1.18.0
